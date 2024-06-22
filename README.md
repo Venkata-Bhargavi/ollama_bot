@@ -12,6 +12,8 @@ This repository provides a step-by-step guide to set up and run various large la
 1. **Llama 3** - 8B parameters
 2. **Gemma** - 2B parameters
 
+Note: In this guide I am using Temperature 0 as I dont want the model to be creative and focusing on asking factual questions
+
 ## Requirements
 
 - macOS, Windows, or Linux
@@ -88,3 +90,8 @@ example:
 }'`
 
 ![img_3.png](img_3.png)
+
+Similarly lets try for Gemma model
+
+
+![img_4.png](img_4.png)
